@@ -1,0 +1,42 @@
+ *** Sun Oct 11 13:36:00 2009 *** 
+
+>>>>>>>>>>>>>>>>>>>>>
+========== Sun Oct 11 13:32:03 2009 ==========
+File     :  .\vfs_file_raii.cpp
+Line     :  11
+Location :  vfs::COpenReadFile::COpenReadFile
+
+   file "TableData\Map\A9_0_ExtraItems.xml_Expert" does not exist
+
+<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>>>>>>
+========== Sun Oct 11 13:32:03 2009 ==========
+File     :  .\vfs_file_raii.cpp
+Line     :  11
+Location :  vfs::COpenReadFile::COpenReadFile
+
+   file "TableData\Map\A9_0_ExtraItems.xml" does not exist
+
+<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>>>>>>
+========== Sun Oct 11 13:33:45 2009 ==========
+File     :  .\vfs_file_raii.cpp
+Line     :  11
+Location :  vfs::COpenReadFile::COpenReadFile
+
+   file "SPEECH\012_000.gap" does not exist
+
+<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>>>>>>
+========== Sun Oct 11 13:35:17 2009 ==========
+File     :  .\vfs_file_raii.cpp
+Line     :  11
+Location :  vfs::COpenReadFile::COpenReadFile
+
+   file "SPEECH\012_000.gap" does not exist
+
+<<<<<<<<<<<<<<<<<<<<<
+

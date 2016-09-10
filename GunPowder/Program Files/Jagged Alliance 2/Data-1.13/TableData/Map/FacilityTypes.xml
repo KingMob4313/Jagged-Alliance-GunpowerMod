@@ -1,0 +1,71 @@
+<!--
+	This XML creates new facilities for placement in the game (use Facilities.XML), and
+	also adds many effects to existing game facilities.
+-->
+
+<FACILITYTYPES>
+	<FACILITYTYPE>
+		<ubIndex>1</ubIndex>
+		<szFacilityName>Hospital</szFacilityName>
+		<sMedicalTraining>25</sMedicalTraining>
+		<sDoctor>25</sDoctor>
+		<ubMinimumMedicalForDoctor>90</ubMinimumMedicalForDoctor>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>2</ubIndex>
+		<szFacilityName>Factory</szFacilityName>
+		<sRepair>25</sRepair>
+		<ubMinimumMechanicalForRepair>50</ubMinimumMechanicalForRepair>
+		<ubMaxFatigue>80</ubMaxFatigue>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>3</ubIndex>
+		<szFacilityName>Prison</szFacilityName>
+		<ubMaxMorale>40</ubMaxMorale>
+		<sRestingMorale>-5</sRestingMorale>
+		<sJobbingMorale>-10</sJobbingMorale>
+		<sTrainingMorale>-10</sTrainingMorale>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>4</ubIndex>
+		<szFacilityName>Military Base</szFacilityName>
+		<ubMilitiaTrainingAllowed>4</ubMilitiaTrainingAllowed>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>5</ubIndex>
+		<szFacilityName>Airport</szFacilityName>
+		<sRegainFatigueSleep>-25</sRegainFatigueSleep>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>6</ubIndex>
+		<szFacilityName>Gun Range</szFacilityName>
+		<sMarksmanshipTraining>25</sMarksmanshipTraining>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>7</ubIndex>
+		<szFacilityName>A.C.A</szFacilityName>
+		<ubMilitiaTrainingAllowed>2</ubMilitiaTrainingAllowed>
+		<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
+		<ubMinimumWisdomForDetection>70</ubMinimumWisdomForDetection>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>8</ubIndex>
+		<szFacilityName>Beach Resort</szFacilityName>
+		<sRegainFatigue>30</sRegainFatigue>
+		<sRegainFatigueSleep>50</sRegainFatigueSleep>
+		<sRestingMorale>10</sRestingMorale>
+		<sJobbingMorale>-10</sJobbingMorale>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>9</ubIndex>
+		<szFacilityName>War Room</szFacilityName>
+		<fDetectEnemiesLongrange>1</fDetectEnemiesLongrange>
+		<fCountEnemiesInWild>1</fCountEnemiesInWild>
+		<ubMinimumWisdomForDetection>80</ubMinimumWisdomForDetection>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>10</ubIndex>
+		<szFacilityName>SAM Site</szFacilityName>
+		<sSkyriderCostModifier>-100</sSkyriderCostModifier>
+	</FACILITYTYPE>
+</FACILITYTYPES>

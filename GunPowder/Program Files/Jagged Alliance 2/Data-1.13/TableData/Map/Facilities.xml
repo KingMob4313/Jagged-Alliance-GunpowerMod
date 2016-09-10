@@ -1,0 +1,135 @@
+<!--
+	This file sets up the new HAM facility system.
+	It includes all default JA2 facilities, and the following changes:
+
+	1) Militia Training only possible at A.C.A. sites and Military Base. Here's the list:
+		B13
+		H13
+		H14
+		I13
+		I14
+		B2
+		H2
+		G9
+		The Military Base allows more than 2 trainers...
+		Also note that it is not possible to train at SAM sites. You will need Roaming
+		Militia to travel to the SAM site and occupy it themselves.
+	2) A Beach Resort at Chitzena
+	3) SAM Facilities at all SAM Site Sectors
+	4) A War Room at Alma H13.
+
+	Please refer to FacilityTypes.XML to see the effects of each facility type.
+-->
+
+<SECTORFACILITIES>
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H2</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>J9</SectorGrid>
+		<FacilityType>3</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H13</SectorGrid>
+		<FacilityType>4</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H14</SectorGrid>
+		<FacilityType>4</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>I13</SectorGrid>
+		<FacilityType>4</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>B13</SectorGrid>
+		<FacilityType>5</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>N3</SectorGrid>
+		<FacilityType>5</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H13</SectorGrid>
+		<FacilityType>6</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>B13</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>G9</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>B2</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>I14</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H2</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>A1</SectorGrid>
+		<FacilityType>8</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>B1</SectorGrid>
+		<FacilityType>8</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+		<FACILITY>
+		<SectorGrid>A2</SectorGrid>
+		<FacilityType>8</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H13</SectorGrid>
+		<FacilityType>9</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>D15</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>I8</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>D2</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>N4</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+</SECTORFACILITIES>

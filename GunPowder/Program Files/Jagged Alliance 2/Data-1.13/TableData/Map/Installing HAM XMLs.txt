@@ -1,0 +1,36 @@
+HAM comes packaged with several XML files showcasing its new features. 
+
+There are two Zip Files:
+	HAM Defaults.zip - Used for a HAM game.
+	JA2 1.13 Defaults.zip - Used for a JA2 game, or for turning off HAM's XMLized features.
+
+In each Zip file you will find:
+	DynamicRestrictions.XML - Controls where militia can and cannot go.
+	FacilityTypes.XML - Defines facilities and their effects.
+	Facilities.XML - Places facilities on the map.
+
+In the JA2 Defaults Zip file you will also find:
+	DynamicRestrictions-AggressiveRoaming.XML - Free militia roaming over almost the entire map.
+	DynamicRestrictions-StrictPerimeters.XML - Militia roaming only around home city.
+
+
+You can simply extract either of the zip files to your "JA2\Data-1.13\TableData\Map" folder, to
+activate Full HAM or JA2 Defaults as appropriate.
+
+--------------------------
+
+Switching Pre-Made XMLs:
+
+HAM includes two ZIP files in this folder. Each file contains a set of XMLs that can be used to
+change the behavior of the game without having to worry yourself about messing with individual
+settings.
+
+To get JA2 behavior, please copy the files from the included zip "JA2 1.13 Defaults", replacing 
+the files in your JA2\Data-1.13\TableData\Map folder. You can also replace DynamicRestrictions.XML
+with either of the supplied options, to activate a different "basic" mobile militia behavior.
+
+To go back to HAM behavior, please copy the files from the included zip "HAM Defaults", replacing 
+the files in your JA2\Data-1.13\TableData\Map folder.
+
+Please do not mix and match these two separate sets of XMLs (at least, not the facility XMLs) 
+unless you know what you're doing!

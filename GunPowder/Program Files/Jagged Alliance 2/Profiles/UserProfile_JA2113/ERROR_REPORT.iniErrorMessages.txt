@@ -1,0 +1,6 @@
+ *** Thu Oct 08 21:36:31 2009 *** 
+
+The value [JA2 HAM Settings][DIVERSE_ROAMING_MILITIA_GROUPS] = "" in file [Ja2_Options.ini] is neither TRUE nor FALSE.  The value FALSE will be used.
+The value [JA2 HAM Settings][SUPPRESSION_SHOCK] = "" in file [Ja2_Options.ini] is neither TRUE nor FALSE.  The value FALSE will be used.
+The value [JA2 HAM Settings][LIMITED_SUPPRESSION_AP_LOSS_PER_ATTACK] = "" in file [Ja2_Options.ini] is neither TRUE nor FALSE.  The value TRUE will be used.
+The value [JA2 HAM Settings][LIMITED_SUPPRESSION_AP_LOSS_PER_TURN] = "" in file [Ja2_Options.ini] is neither TRUE nor FALSE.  The value TRUE will be used.
